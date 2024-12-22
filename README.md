@@ -2,7 +2,7 @@
 
 A simple BMI (Body Mass Index) Calculator built using Qt Framework. This application allows users to input their height and weight to calculate their BMI and provides feedback on their BMI category.
 
-## Features
+## 📦Features
 - Input validation for height and weight using `QDoubleValidator`.
 - Calculates BMI based on the formula:
   \[ BMI = \frac{weight (kg)}{(height (m))^2} \]
@@ -11,12 +11,12 @@ A simple BMI (Body Mass Index) Calculator built using Qt Framework. This applica
   - **Normal**: 18.5 ≤ BMI < 22.9
   - **Overweight**: BMI ≥ 22.9
 
-## Prerequisites
+## 🚀Prerequisites
 To run or build this project, you need:
 - **Qt Framework** (5.x or later)
 - **C++ Compiler** (e.g., GCC, MSVC)
 
-## How to Build
+## ⚙️How to Build
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/BMI-Calculator.git
@@ -29,13 +29,13 @@ To run or build this project, you need:
 3. Build and Run the project:
    - Press `Ctrl + R` or click the `Run` button in Qt Creator to build and execute the application.
 
-## Usage
+## ⚙️Usage
 1. Enter your height (in centimeters) in the `Height` input field.
 2. Enter your weight (in kilograms) in the `Weight` input field.
 3. Click the **Calculate** button.
 4. View your BMI result and category in the result label.
 
-## File Structure
+## 📂File Structure
 ```
 BMI-Calculator/
 ├── picture/
